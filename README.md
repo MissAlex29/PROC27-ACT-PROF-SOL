@@ -1,1 +1,2 @@
-# PROC27-ACT-PROF-SOL
+# angryBirdsStage2
+Angry Birds stage 2 with Class Inheritance and Images
